@@ -4,6 +4,7 @@
 }
 header{
  padding: 40px;
- background-color: cyan;
- color: blue;
+ background-color: blue;
+ color: white;
+ text-align: center;
 }
