@@ -1,5 +1,9 @@
+*{
+ margin: 0;
+ padding: 0;
+}
 header{
- passing: 40px;
+ padding: 40px;
  background-color: cyan;
  color: blue;
 }
